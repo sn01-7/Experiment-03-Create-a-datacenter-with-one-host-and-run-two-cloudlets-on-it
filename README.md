@@ -241,6 +241,7 @@ Cloudlet ID: 1 | VM ID: 1 | Start Time: 0.1 | Finish Time: 10.1
 
 
 ## Screenshots of exectuted output 
+<img width="1437" height="730" alt="image" src="https://github.com/user-attachments/assets/29595c28-71e4-4d9c-bea1-15f065b6e3ec" />
 
 
 
